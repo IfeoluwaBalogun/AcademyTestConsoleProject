@@ -1,0 +1,14 @@
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\bin\Debug\net6.0\AcademyTestConsoleProject.exe
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\bin\Debug\net6.0\AcademyTestConsoleProject.deps.json
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\bin\Debug\net6.0\AcademyTestConsoleProject.runtimeconfig.json
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\bin\Debug\net6.0\AcademyTestConsoleProject.dll
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\bin\Debug\net6.0\AcademyTestConsoleProject.pdb
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\obj\Debug\net6.0\AcademyTestConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\obj\Debug\net6.0\AcademyTestConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\obj\Debug\net6.0\AcademyTestConsoleProject.AssemblyInfo.cs
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\obj\Debug\net6.0\AcademyTestConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\obj\Debug\net6.0\AcademyTestConsoleProject.dll
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\obj\Debug\net6.0\refint\AcademyTestConsoleProject.dll
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\obj\Debug\net6.0\AcademyTestConsoleProject.pdb
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\obj\Debug\net6.0\AcademyTestConsoleProject.genruntimeconfig.cache
+C:\Users\Oyindamola\Desktop\AcademyTestConsoleProject\AcademyTestConsoleProject\obj\Debug\net6.0\ref\AcademyTestConsoleProject.dll
